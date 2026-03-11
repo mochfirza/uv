@@ -79,7 +79,6 @@ fn help() {
 
     Use `uv help <command>` for more information on a specific command.
 
-
     ----- stderr -----
     "#);
 }
@@ -1047,7 +1046,6 @@ fn help_with_global_option() {
 
     Use `uv help <command>` for more information on a specific command.
 
-
     ----- stderr -----
     "#);
 }
@@ -1168,7 +1166,6 @@ fn help_with_no_pager() {
               Display the uv version
 
     Use `uv help <command>` for more information on a specific command.
-
 
     ----- stderr -----
     "#);
